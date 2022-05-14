@@ -21,5 +21,7 @@ namespace MVC_Start
         WebHost.CreateDefaultBuilder(args)
             .UseStartup<Startup>()
             .Build();
+
+        // test comment
   }
 }
